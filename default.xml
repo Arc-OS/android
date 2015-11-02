@@ -27,6 +27,7 @@
   <project path="build" name="android_build" groups="pdk" remote="arc" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
+  <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" groups="pdk" remote="arc" />
   <project path="vendor/cm" name="android_vendor_arc" remote="arc" />
 <!-- END ARC -->
 
@@ -179,7 +180,6 @@
   <project path="hardware/cyanogen" name="android_hardware_cyanogen" remote="cm" />
   <project path="hardware/invensense" name="android_hardware_invensense" groups="invensense" remote="cm" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" groups="pdk" remote="cm" />
-  <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" groups="pdk" remote="cm" />
   <project path="hardware/nvidia/audio" name="android_hardware_nvidia_audio" groups="nvidia_audio" remote="cm" />
   <project path="hardware/qcom/audio/default" name="android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="cm" />
   <project path="hardware/qcom/audio-caf/apq8084" name="android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="cm-13.0-caf-8084" remote="cm" />
