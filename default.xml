@@ -220,10 +220,11 @@
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" remote="cm" />
   <project path="packages/apps/BluetoothExt" name="android_packages_apps_BluetoothExt" remote="cm" />
   <project path="packages/apps/Browser" name="android_packages_apps_Browser" groups="pdk-fs" remote="cm" />
-  <project path="packages/apps/Calculator" name="android_packages_apps_Calculator" groups="pdk-fs" remote="cm" />
+  <project path="packages/apps/ExactCalculator" name="android_packages_apps_ExactCalculator" remote="cm" />
   <project path="packages/apps/Calendar" name="android_packages_apps_Calendar" groups="pdk-fs" remote="cm" />
   <project path="packages/apps/Camera2" name="android_packages_apps_Camera2" groups="pdk-fs" remote="cm" />
   <project path="packages/apps/CellBroadcastReceiver" name="android_packages_apps_CellBroadcastReceiver" groups="pdk-fs" remote="cm" />
+  <project path="packages/apps/CarrierConfig" name="android_packages_apps_CarrierConfig" groups="pdk-fs" remote="cm" />
   <project path="packages/apps/CertInstaller" name="android_packages_apps_CertInstaller" groups="pdk-cw-fs,pdk-fs" remote="cm" />
   <project path="packages/apps/CMBugReport" name="android_packages_apps_CMBugreport" remote="cm" />
   <project path="packages/apps/CMFileManager" name="android_packages_apps_CMFileManager" remote="cm" />
@@ -509,8 +510,6 @@
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" groups="omap3" remote="aosp" />
   <project path="hardware/ti/omap4-aah" name="platform/hardware/ti/omap4-aah" groups="omap4-aah" remote="aosp" />
   <project path="ndk" name="platform/ndk" groups="generic_fs" remote="aosp" />
-  <project path="packages/apps/CarrierConfig" name="platform/packages/apps/CarrierConfig" groups="pdk-fs" remote="aosp" />
-  <project path="packages/apps/ExactCalculator" name="platform/packages/apps/ExactCalculator" groups="pdk-fs" remote="aosp" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" />
   <project path="packages/providers/BookmarkProvider" name="platform/packages/providers/BookmarkProvider" groups="pdk-fs" remote="aosp" />
   <project path="packages/providers/CallLogProvider" name="platform/packages/providers/CallLogProvider" groups="pdk-fs" remote="aosp" />
