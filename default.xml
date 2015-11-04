@@ -45,6 +45,7 @@
   <project path="device/generic/goldfish" name="android_device_generic_goldfish" groups="pdk" remote="cm" />
   <project path="device/google/atv" name="android_device_google_atv" groups="device,fugu,broadcom_pdk,generic_fs" remote="cm" />
   <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="cm" />
+  <project path="external/android-clat" name="android_external_android-clat" groups="pdk-cw-fs,pdk-fs" remote="cm" />
   <project path="external/android-mock" name="android_external_android-mock" groups="pdk-cw-fs,pdk-fs" remote="cm" />
   <project path="external/android-visualizer" name="android_external_android-visualizer" remote="cm" />
   <project path="external/android/support-prebuilt" name="external_android_support-prebuilt" revision="master" remote="cm" />
@@ -324,7 +325,6 @@
   <project path="device/sample" name="device/sample" groups="pdk" remote="aosp" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" remote="aosp" />
-  <project path="external/android-clat" name="platform/external/android-clat" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/androidplot" name="platform/external/androidplot" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/antlr" name="platform/external/antlr" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/apache-commons-math" name="platform/external/apache-commons-math" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
