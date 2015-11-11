@@ -61,6 +61,7 @@
   <project path="external/bouncycastle" name="android_external_bouncycastle" groups="pdk" remote="cm" />
   <project path="external/brctl" name="android_external_brctl" remote="cm" />
   <project path="external/busybox" name="android_external_busybox" remote="cm" />
+  <project path="external/connectivity" name="android_external_connectivity" remote="cm" />
   <project path="external/curl" name="android_external_curl" remote="cm" />
   <project path="external/dhcpcd" name="android_external_dhcpcd" groups="pdk-cw-fs,pdk-fs" remote="cm" />
   <project path="external/dnsmasq" name="android_external_dnsmasq" groups="pdk" remote="cm" />
