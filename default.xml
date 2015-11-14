@@ -117,6 +117,7 @@
   <project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="cm" />
   <project path="external/okhttp" name="android_external_okhttp" groups="pdk-cw-fs,pdk-fs" remote="cm" />
   <project path="external/openssh" name="android_external_openssh" groups="pdk-cw-fs,pdk-fs" remote="cm" />
+  <project path="external/p7zip" name="android_external_p7zip" remote="cm" />
   <project path="external/pcre" name="android_external_pcre" groups="pdk" remote="cm" />
   <project path="external/pigz" name="android_external_pigz" remote="cm" />
   <project path="external/powertop" name="android_external_powertop" remote="cm" />
@@ -136,6 +137,7 @@
   <project path="external/tinyxml2" name="android_external_tinyxml2" groups="pdk" remote="cm" />
   <project path="external/toybox" name="android_external_toybox" groups="pdk" remote="cm" />
   <project path="external/unrar" name="android_external_unrar" remote="cm" />
+  <project path="external/unzip" name="android_external_unzip" remote="cm" />
   <project path="external/vim" name="android_external_vim" remote="cm" />
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" groups="pdk" remote="cm" />
   <project path="external/yaffs2" name="android_external_yaffs2" groups="pdk" remote="cm" />
