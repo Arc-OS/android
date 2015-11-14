@@ -61,6 +61,7 @@
   <project path="external/bouncycastle" name="android_external_bouncycastle" groups="pdk" remote="cm" />
   <project path="external/brctl" name="android_external_brctl" remote="cm" />
   <project path="external/busybox" name="android_external_busybox" remote="cm" />
+  <project path="external/bzip2" name="android_external_bzip2" groups="pdk" remote="cm" />
   <project path="external/connectivity" name="android_external_connectivity" remote="cm" />
   <project path="external/curl" name="android_external_curl" remote="cm" />
   <project path="external/dhcpcd" name="android_external_dhcpcd" groups="pdk-cw-fs,pdk-fs" remote="cm" />
@@ -118,7 +119,7 @@
   <project path="external/openssh" name="android_external_openssh" groups="pdk-cw-fs,pdk-fs" remote="cm" />
   <project path="external/pcre" name="android_external_pcre" groups="pdk" remote="cm" />
   <project path="external/pigz" name="android_external_pigz" remote="cm" />
-  <!-- <project path="external/powertop" name="android_external_powertop" remote="cm" /> -->
+  <project path="external/powertop" name="android_external_powertop" remote="cm" />
   <project path="external/protobuf-c" name="android_external_protobuf-c" remote="cm" />
   <project path="external/rsync" name="android_external_rsync" remote="cm" />
   <project path="external/sepolicy" name="android_external_sepolicy" groups="pdk" remote="cm" />
@@ -333,7 +334,6 @@
   <project path="external/bison" name="platform/external/bison" groups="pdk" remote="aosp" />
   <project path="external/blktrace" name="platform/external/blktrace" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" remote="aosp" />
-  <project path="external/bzip2" name="platform/external/bzip2" groups="pdk" remote="aosp" />
   <project path="external/cblas" name="platform/external/cblas" groups="pdk" remote="aosp" />
   <project path="external/ceres-solver" name="platform/external/ceres-solver" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/chromium-libpac" name="platform/external/chromium-libpac" groups="pdk-fs" remote="aosp" />
