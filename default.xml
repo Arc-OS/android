@@ -7,7 +7,7 @@
            revision="refs/tags/android-6.0.1_r3" />
 
   <remote  name="arc"
-           fetch="https://github.com/Arc-Team"/>
+           fetch="https://github.com/Arc-OS"/>
 
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod"

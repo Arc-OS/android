@@ -1,10 +1,10 @@
 To initialize on Linux:
 ```shell
-repo init -u https://github.com/Arc-Team/android.git -b cm-13.0 -g all,-notdefault,-darwin
+repo init -u https://github.com/Arc-OS/android.git -b cm-13.0 -g all,-notdefault,-darwin
 ```
 To initialize on MacOS:
 ```shell
-repo init -u https://github.com/Arc-Team/android.git -b cm-13.0 -g all,-notdefault,-linux
+repo init -u https://github.com/Arc-OS/android.git -b cm-13.0 -g all,-notdefault,-linux
 ```
 Use our local manifests:
 
