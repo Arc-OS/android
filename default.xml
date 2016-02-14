@@ -9,6 +9,9 @@
   <remote  name="arc"
            fetch="https://github.com/Arc-OS"/>
 
+  <remote  name="arcteam"
+           fetch="https://github.com/Arc-Team"/>
+
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod"
            review="review.cyanogenmod.org"
