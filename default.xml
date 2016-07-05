@@ -9,12 +9,22 @@
   <remote  name="arc"
            fetch="https://github.com/Arc-OS"/>
 
+  <remote  name="arcteam"
+           fetch="https://github.com/Arc-Team"/>
+
+  <remote  name="bitbucket"
+           fetch="https://bitbucket.org" />
+
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod"
            review="review.cyanogenmod.org" />
 
   <remote  name="github"
            fetch="https://github.com" />
+
+  <remote  name="uber"
+           fetch="https://bitbucket.org/UBERTC" 
+           revision="refs/tags/master" />
 
   <default revision="refs/heads/cm-13.0"
            remote="github"
